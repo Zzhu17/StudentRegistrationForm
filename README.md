@@ -38,6 +38,4 @@ You need to have Node.js and npm installed.
   ```
 
 3. Start the Development Server:
-
-   ```bash
-  npm start
+   ```bash   npm start ```
