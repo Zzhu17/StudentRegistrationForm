@@ -30,6 +30,7 @@ You need to have Node.js and npm installed.
    ```bash
    git clone https://github.com/yourusername/school-form.git
    cd school-form
+   ```
 
 2. Intall the Dependency:
    
