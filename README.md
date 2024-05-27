@@ -31,7 +31,12 @@ You need to have Node.js and npm installed.
    git clone https://github.com/yourusername/school-form.git
    cd school-form
 
-2.Install the dependencies:
+2. Intall the Dependency:
+   
   ```bash
   npm install
 
+3. Start the Development Server:
+
+   ```bash
+  npm start
