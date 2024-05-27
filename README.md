@@ -33,12 +33,13 @@ You need to have Node.js and npm installed.
    ```
 
 2. Intall the Dependency:
-   
+
   ```bash
   npm install
   ```
 
 3. Start the Development Server:
+
    ```bash
    npm start
    ```
